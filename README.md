@@ -1,2 +1,3 @@
 # media-hosting-solution
-![image](https://github.com/user-attachments/assets/ddff0b58-5f81-47b1-b65c-a501a6e1693c)
+![Alt Text](https://raw.githubusercontent.com/kareem-hijjawi/portfoliomedia/main/Untitled Diagram.drawio (2).svg)
+
