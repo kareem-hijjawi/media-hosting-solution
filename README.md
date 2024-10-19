@@ -1,3 +1,3 @@
 # media-hosting-solution
-![Alt Text](https://raw.githubusercontent.com/kareem-hijjawi/portfoliomedia/main/hosting-media.svg)
+![Alt Text](https://github.com/kareem-hijjawi/portfoliomedia/blob/main/hosting-media.svg)
 
